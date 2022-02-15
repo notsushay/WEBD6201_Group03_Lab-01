@@ -1,0 +1,14 @@
+{
+  "name": "webd6201-lab01",
+  "version": "1.0.0",
+  "description": "Lab Assignment 01 for WEBD 6201",
+  "main": "app.js",
+  "author": "Shuchi Nayak",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.0.0",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
